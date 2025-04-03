@@ -15,7 +15,7 @@ sendo um compilado de dados que contém percepções das pessoas sobre saúde me
 
 **4. Para cada ano, quais são os 5 países com o menor número de respondentes?**
 
-**5. Qual é a distribuição etária dos profissionais de tecnologia?** ---OK
+**5. Qual é a distribuição etária dos profissionais de tecnologia?**
 
 **6. Qual é a diferença na participação de homens e mulheres no setor de tecnologia ao longo do tempo?** 
 
@@ -29,6 +29,6 @@ sendo um compilado de dados que contém percepções das pessoas sobre saúde me
 
 🏆 Com a integração de SQL no JupyterLab foi possível realizar a manipulação dos dados utilizando técnicas de filtragem, agregação e classificação para consultar e responder as perguntas propostas sobre a distribuição de imóveis e suas caracteristicas. Além das habilidades técnicas de manipulação de dados, ficou claro que a interpretação crítica dos dados e a identificação das perguntas-chave a serem respondidas são cruciais para uma análise de qualidade.
 
-A saúde mental se tornou uma questão importante nos últimos anos, pois afeta não apenas indivíduos, mas também empresas e a sociedade como um todo. A participação feminina no setor de tecnologia teve um crescimento em 2016, mas apresentou quedas nos anos seguintes, enquanto a presença LGBTQIA+ aumentou significativamente. A maioria dos profissionais de tecnologia que enfrentam problemas de saúde mental também possuem histórico familiar dessas condições, o que reforça a necessidade de suporte adequado. Além disso, as empresas só começaram a implementar discussões formais sobre saúde mental a partir de 2018, demonstrando um avanço tardio na conscientização sobre o tema.
+💭 A saúde mental se tornou uma questão importante nos últimos anos, pois afeta não apenas indivíduos, mas também empresas e a sociedade como um todo. A participação feminina no setor de tecnologia teve um crescimento em 2016, mas apresentou quedas nos anos seguintes, enquanto a presença LGBTQIA+ aumentou significativamente. A maioria dos profissionais de tecnologia que enfrentam problemas de saúde mental também possuem histórico familiar dessas condições, o que reforça a necessidade de suporte adequado. Além disso, as empresas só começaram a implementar discussões formais sobre saúde mental a partir de 2018, demonstrando um avanço tardio na conscientização sobre o tema.
 
-Observa-se também que a pesquisa ainda pode ser aprimorada, aumento o número de respondentes, uma categorização mais detalhada das respostas e a inclusão de novas perguntas para capturar melhor a evolução da percepção sobre saúde mental no setor de tecnologia.
+🔎 Observa-se também que a pesquisa ainda pode ser aprimorada, aumento o número de respondentes, uma categorização mais detalhada das respostas e a inclusão de novas perguntas para capturar melhor a evolução da percepção sobre saúde mental no setor de tecnologia.
